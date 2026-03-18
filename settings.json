@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "arcticstrike.mcsh.io",
-    "port": 2022,
+    "ip": "ARCTICSTRIKE.play.hosting",
+    "port": 36609,
     "version": "",
     "try-creative": false
   },
