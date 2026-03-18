@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "arcticstrike.mcsh.io",
-    "port": 11389,
+    "port": 2022,
     "version": "",
     "try-creative": false
   },
